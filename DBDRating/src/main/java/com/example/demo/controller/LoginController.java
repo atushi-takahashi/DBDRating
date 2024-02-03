@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import com.example.demo.form.LoginForm;
 
-// ログインを実装していく
+// ログインを実装していくよ
 @Controller
 public class LoginController {
 	
